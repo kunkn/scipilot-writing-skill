@@ -130,9 +130,24 @@ license: MIT
 - 目标刊要什么 → `references/journal_styles.md`（Nature/Science/Cell/PNAS/IEEE/医学/中文核心 + 报告规范）
 - 去 AI 味怎么改 → `references/de_ai_humanize.md`（AI 指纹清单 + 中英词表 + humanize 原则）
 - 投稿信/审稿回复 → `references/cover_letter_and_rebuttal.md`
+- 中译英 / 英文翻译任务 → **必须加载**
+  `references/translation_protocol.md`
+- 涉及时态判断 → **必须加载**
+  `references/tense_guide.md`
 
 ### Stage 3：起草 / 改写
 
+### 翻译任务额外约束
+
+若任务包含中文 → 英文翻译：
+
+1. 必须先读取 `references/translation_protocol.md`；
+2. 必须读取 `references/tense_guide.md`；
+3. 必须检查当前上下文已经定义过的缩写；
+4. 必须保持原文因果、条件、比较和结论强度；
+5. 不得主动增加冒号或破折号；
+6. 每个英文结果后必须提供对应的机译回译；
+7. 不得将多个自然段合并后计算 CV 或被动比例。
 应用 `sci_writing_principles` + `de_ai_humanize` + 对应任务剧本，产出**三段式**
 （IRON RULE 3）。深度重写也保留作者观点与领域术语；LaTeX/Word 按载体守纯净。
 
