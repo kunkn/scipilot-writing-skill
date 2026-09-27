@@ -1,8 +1,10 @@
-# 句子与段落层面的高水平写作技法
+<img width="1545" height="1198" alt="image" src="https://github.com/user-attachments/assets/90da888c-d7bf-4500-a3b7-53fe54c70a7b" /># 句子与段落层面的高水平写作技法
 
 > 这是把一段话从"语法正确"提升到"读着像顶刊"的内功。`scipilot-writing-skill` 在
 > Stage 3 改写时套用本文原则，Stage 5 读稿时据此复核。
-
+> **中译英任务特别规则：** 涉及中文→英文翻译时，时态判断必须优先遵循
+> [`tense_guide.md`](tense_guide.md)。若本文件中的一般时态建议与 `tense_guide.md`
+> 存在冲突，以 `tense_guide.md` 为准。
 ---
 
 ## 1. 时态规范（各章节惯用）
